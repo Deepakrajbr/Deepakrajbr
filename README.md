@@ -171,35 +171,16 @@ Developed a virtual medical assistant using AI, NLP, and Retrieval-Augmented Gen
 
 ---
 
-## 🔄 DevOps Workflow
+## 📊 GitHub Statistics
 
-My projects focus on connecting development, infrastructure, deployment, and operations into a repeatable workflow.
+<div align="center">
 
-```text
-Developer
-    │
-    ▼
-  GitHub
-    │
-    ▼
-  Jenkins
-    │
-    ├── Build
-    ├── Test
-    └── Package
-    │
-    ▼
-  Docker
-    │
-    ▼
-Container Registry
-    │
-    ▼
-AWS / Kubernetes
-    │
-    ▼
-Application
-    │
-    ▼
-Monitoring
-Prometheus + Grafana
+<a href="https://github.com/Deepakrajbr">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Deepakrajbr&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+</a>
+
+<a href="https://github.com/Deepakrajbr">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepakrajbr&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
+
+</div>
